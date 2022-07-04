@@ -1,0 +1,13 @@
+// Vitest Snapshot v1
+
+exports[`snapshots > squareList 1`] = `
+[
+  1,
+  4,
+  9,
+  16,
+  25,
+]
+`;
+
+exports[`snapshots > toUpperCase 1`] = `"FOOBAR"`;

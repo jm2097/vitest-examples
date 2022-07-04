@@ -1,0 +1,39 @@
+// Vitest Snapshot v1
+
+exports[`Matchers > matchers 1`] = `
+{
+  "fruits": [
+    "banana",
+    "apple",
+    "grape",
+    "strawberry",
+  ],
+}
+`;
+
+exports[`Matchers > matchers 2`] = `
+{
+  "fruits": Any<Array>,
+}
+`;
+
+exports[`Matchers > matchers 5`] = `"This is not a back-end application"`;
+
+exports[`Matchers > should test matchers 1`] = `
+{
+  "fruits": [
+    "banana",
+    "apple",
+    "grape",
+    "strawberry",
+  ],
+}
+`;
+
+exports[`Matchers > should test matchers 2`] = `
+{
+  "fruits": Any<Array>,
+}
+`;
+
+exports[`Matchers > should test matchers 5`] = `"This is not a back-end application"`;
